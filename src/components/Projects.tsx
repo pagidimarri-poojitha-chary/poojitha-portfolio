@@ -121,7 +121,7 @@ const Projects = () => {
       title: "Smart Pole Dashboard",
       description: "Interactive smart pole dashboard delivering real-time data, analytics, and control in a single unified view.",
       technologies: ["React", "Python", "Gemini API", "LangChain", "Firebase"],
-      image: "ChatGPT Image Sep 3, 2025, 08_39_16 AM.png",
+      image: "WhatsApp Image 2025-09-03 at 8.20.28 AM (1).jpeg",
       liveUrl: "https://smartpole-dashboard.vercel.app/",
       // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
       icon: Brain,
