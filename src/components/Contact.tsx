@@ -274,7 +274,7 @@ const Contact = () => {
           className="mt-20 pt-8 border-t border-border text-center"
         >
           <p className="text-muted-foreground mb-4">
-            © 2024 Pagidimarri Poojitha. Crafted with ❤️ using React, TypeScript & Framer Motion.
+            © 2024 Pagidimarri Poojitha. Crafted using React, TypeScript & Framer Motion.
           </p>
           <p className="text-sm text-muted-foreground">
             "Innovation distinguishes between a leader and a follower." - Steve Jobs
