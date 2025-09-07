@@ -61,7 +61,7 @@ const Header = () => {
           {/* Actions */}
           <div className="flex items-center space-x-3">
             <motion.a
-              href="https://drive.google.com/file/d/11KuOcO_czHDWPeNVxO5wdEGEa70obsg8/view?usp=drive_link"
+              href="poojitha_cv.pdf"
               download
               className="btn-primary cursor-hover hidden sm:flex items-center gap-2 text-sm px-3 py-2"
               whileHover={{ scale: 1.05 }}
