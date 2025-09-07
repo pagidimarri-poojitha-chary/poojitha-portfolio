@@ -14,13 +14,265 @@ const Projects = () => {
       title: "ZapReach",
       description: "A lightning-fast email marketing platform with real-time analytics, automated campaigns, and intelligent targeting.",
       technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
-      image: "https://imageio.forbes.com/specials-images/imageserve/644622568dbbc5caeca3babc/What-is-Auto-GPT--A-Next-Level-AI-Tool-Surpassing-ChatGPT-/960x0.jpg?height=473&width=711&fit=bounds",
+      image: "ai-tools-for-video-creation.jpg",
       liveUrl: "https://zapreach.icu",
       // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
       icon: Zap,
       gradient: "from-orange-500 to-red-600",
     },
+    {
+      title: "RPS-48 Fashion",
+      description: "E-commerce platform for a fashion brand, featuring product showcases, shopping cart functionality, and secure payment integration.",
+      technologies: ["React", "Python", "Flask", "Judge0 API", "Docker"],
+      image: "Geometric Fashion Design Display.png",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      liveUrl: "https://rps-48-fashion.vercel.app",
+      icon: Code,
+      gradient: "from-green-500 to-teal-600"
+    },
+
+
+
+    // {
+    //   title: "Dragon Sino Group",
+    //   description: "Worked as a Full Stack developer At Dragon Sino Group. Created a fully functional MERN Stack Web Application. Having responsive behaviour, smooth touch UI with API Integration. This is a Chinese Company, I was glad to work with them in the United Kingdom.",
+    //   technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL","CSS3","MUI","SEO"],
+    //   image: "2.png",
+    //   liveUrl: "https://www.dragonsino.com/",
+    //   // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+    //   icon: Zap,
+    //   gradient: "from-orange-500 to-red-600",
+    // },
+          {
+      title: "THE KOLORADO PAINTS",
+      description: "Built The Kolorado Paints site using Next.js, React, Tailwind CSS, and responsive design for an engaging, mobile-friendly experience.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "3.png",
+      liveUrl: "https://thekoloradopaints.com/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
         {
+      title: "TechnoKraft",
+      description: "Developed the TTS website using Next.js, React, Tailwind CSS, and modern responsive design practices. Implemented smooth scrolling, interactive elements, and optimized performance for an engaging user experience.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "4.png",
+      liveUrl: "https://tts.net.in/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+    //     {
+    //   title: "BEST GST Course",
+    //   description: "Created the Best GST Course website using Next.js, React, Tailwind CSS, and responsive design principles. Focused on delivering a seamless user experience with fast load times, intuitive navigation, and mobile optimization.",
+    //   technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+    //   image: "05.png",
+    //   liveUrl: "https://www.bestgstcourse.com/",
+    //   // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+    //   icon: Zap,
+    //   gradient: "from-orange-500 to-red-600",
+    // },
+
+
+
+
+     {
+      title: "Dragon Sino Group",
+      description: "Worked as a Full Stack developer At Dragon Sino Group. Created a fully functional MERN Stack Web Application. Having responsive behaviour, smooth touch UI with API Integration. This is a Chinese Company, I was glad to work with them in the United Kingdom.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL","CSS3","MUI","SEO"],
+      image: "2.png",
+      liveUrl: "https://www.dragonsino.com/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+        {
+      title: "Affinix Digital",
+      description: "Developed the Affinix Digital website using Next.js, React, Tailwind CSS, and responsive design techniques. Ensured a visually appealing and user-friendly interface with optimized performance across all devices.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "6.png",
+      liveUrl: "https://affinixdigital.com/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+
+    //     {
+    //   title: "Octane Apps",
+    //   description: "A lightning-fast email marketing platform with real-time analytics, automated campaigns, and intelligent targeting.",
+    //   technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+    //   image: "7.png",
+    //   liveUrl: "https://octaneapps.com/",
+    //   // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+    //   icon: Zap,
+    //   gradient: "from-orange-500 to-red-600",
+    // },
+
+
+        {
+      title: "Dr.Manisha's Yoga Institute",
+      description: "Built Dr. Manisha’s Yoga Institute site using Next.js, React, Tailwind CSS, and responsive design for a seamless, mobile-first user experience.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "8.png",
+      liveUrl: "https://www.drmanishasyogainstitute.com/?ref=localhost",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+
+        {
+      title: "Anandlok Ayurveda",
+      description: "Developed the Anandlok Ayurveda & Panchakarma Hospital website using Next.js, React, Tailwind CSS, and a mobile-first responsive design to showcase holistic healthcare services in a modern, user-friendly format.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "9.png",
+      liveUrl: "https://www.anandlokayurveda.com/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+
+        {
+      title: "News-o-Pedia",
+      description: "Built News-O-Pedia using Vue.js and deployed it as a fast, responsive Jamstack news site on Netlify.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "10.png",
+      liveUrl: "https://news-o-pedia.netlify.app/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+    //     {
+    //   title: "Select Text to Speech Chrome extention",
+    //   description: "A simple chrome extension where you can select text, then right click and then select the option 'Read aloud' and you can hear the final audio.",
+    //   technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+    //   image: "11.png",
+    //   liveUrl: "https://zapreach.icu",
+    //   // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+    //   icon: Zap,
+    //   gradient: "from-orange-500 to-red-600",
+    // },
+
+        {
+      title: "RESTRO - A Restaurant Management System",
+      description: "A simple and beautiful Restaurent Website made with Pure HTML, CSS and JS. With some beautiful Animation and data fetching using API.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "12.png",
+      liveUrl: "https://fynd-academy-mevn.vercel.app/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+
+    //     {
+    //   title: "Chakra",
+    //   description: "A lightning-fast email marketing platform with real-time analytics, automated campaigns, and intelligent targeting.",
+    //   technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+    //   image: "13.png",
+    //   liveUrl: "https://zapreach.icu",
+    //   // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+    //   icon: Zap,
+    //   gradient: "from-orange-500 to-red-600",
+    // },
+
+         {
+      title: "Rural-Company(Urban clone)",
+      description: "A clone of the Urban app tailored for rural markets, focusing on local services, user-friendly design, and efficient delivery systems.",
+      technologies: ["React", "Python", "Gemini API", "LangChain", "Firebase"],
+      image:"Rural Company Services and Worker Showcase.png",
+      liveUrl: "https://rural-company.vercel.app",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Brain,
+      gradient: "from-purple-500 to-pink-600",
+      },
+
+        {
+      title: "YouTube-Clone",
+      description: "A full-stack clone of the YouTube app, implementing core features like user authentication, video playback, and comment sections.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "14.png",
+      liveUrl: "https://youtube-clone-06.netlify.app/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+        {
+      title: "SPACE TALKS",
+      description: "This is a MERN Website. I have created this website using ReactJs, Material-UI, Nodejs, CSS, Express and MongoDB. This website is a platform for people to share their love and knowledge about space, universe, stars, galaxies and other planets with people from all over.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "15.png",
+      liveUrl: "https://space-talks.netlify.app/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+    //     {
+    //   title: "ZapReach",
+    //   description: "A lightning-fast email marketing platform with real-time analytics, automated campaigns, and intelligent targeting.",
+    //   technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+    //   image: "16.png",
+    //   liveUrl: "https://zapreach.icu",
+    //   // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+    //   icon: Zap,
+    //   gradient: "from-orange-500 to-red-600",
+    // },
+
+        {
+      title: "Movie webApp",
+      description: "A Simple Movie App Using Pure ReactJs - made for just revision purpose",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "17.png",
+      liveUrl: "https://react-movie-app-yash.netlify.app/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+        {
+      title: "Complete React Website",
+      description: "I made this whole website from scratch with latest versions of React. This Complete Demo Website is Made using ReactJs, HTML, CSS. This website is a complete demo website which includes all the components of ReactJs.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "19.png",
+      liveUrl: "https://reactwebsite-3b247.web.app/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+        {
+      title: "Wedding Invitation Website",
+      description: "A beautiful and elegant wedding invitation website made with ReactJs, HTML, CSS and JavaScript. This website is a perfect way to invite your friends and family to your wedding in a modern and stylish way.",
+      technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+      image: "20.png",
+      liveUrl: "https://harshal-nandani.web.app/",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Zap,
+      gradient: "from-orange-500 to-red-600",
+    },
+
+    //     {
+    //   title: "ZapReach",
+    //   description: "A lightning-fast email marketing platform with real-time analytics, automated campaigns, and intelligent targeting.",
+    //   technologies: ["React", "Node.js", "AWS SES", "Redis", "PostgreSQL"],
+    //   image: "20.png",
+    //   liveUrl: "https://zapreach.icu",
+    //   // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+    //   icon: Zap,
+    //   gradient: "from-orange-500 to-red-600",
+    // },
+
+
+
+    {
       title: "The Coder Companion",
       description: "An intelligent AI-powered coding assistant that helps developers write better code, debug issues, and learn new technologies.",
       technologies: ["React", "Node.js", "OpenAI API", "TypeScript", "MongoDB"],
@@ -40,6 +292,15 @@ const Projects = () => {
       icon: Code,
       gradient: "from-green-500 to-teal-600",
     },
+        { title: "Arcotindia",
+      description: "Built and launched a corporate website for a startup, focusing on professional branding, UI/UX, and reliable deployment.",
+      technologies: ["React", "Python", "Flask", "Judge0 API", "Docker"],
+      image: "https://img.freepik.com/free-photo/futuristic-smart-city-with-5g-global-network-technology_53876-98438.jpg?semt=ais_hybrid&w=740&q=80",
+      liveUrl: "https://arcotindia.com",
+      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      icon: Code,
+      gradient: "from-green-500 to-teal-600",
+    },
     {
       title: "AI-Waiter",
       description: "Smart restaurant management system powered by AI. Voice ordering, inventory management, and predictive analytics.",
@@ -50,25 +311,25 @@ const Projects = () => {
       icon: Brain,
       gradient: "from-purple-500 to-pink-600",
     },
-    { title: "Arcotindia",
-      description: "Built and launched a corporate website for a startup, focusing on professional branding, UI/UX, and reliable deployment.",
-      technologies: ["React", "Python", "Flask", "Judge0 API", "Docker"],
-      image: "https://img.freepik.com/free-photo/futuristic-smart-city-with-5g-global-network-technology_53876-98438.jpg?semt=ais_hybrid&w=740&q=80",
-      liveUrl: "https://arcotindia.com",
-      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
-      icon: Code,
-      gradient: "from-green-500 to-teal-600",
-    },
-    {
-      title: "RPS-48 Fashion",
-      description: "E-commerce platform for a fashion brand, featuring product showcases, shopping cart functionality, and secure payment integration.",
-      technologies: ["React", "Python", "Flask", "Judge0 API", "Docker"],
-      image: "Geometric Fashion Design Display.png",
-      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
-      liveUrl: "https://rps-48-fashion.vercel.app",
-      icon: Code,
-      gradient: "from-green-500 to-teal-600"
-    },
+    // { title: "Arcotindia",
+    //   description: "Built and launched a corporate website for a startup, focusing on professional branding, UI/UX, and reliable deployment.",
+    //   technologies: ["React", "Python", "Flask", "Judge0 API", "Docker"],
+    //   image: "https://img.freepik.com/free-photo/futuristic-smart-city-with-5g-global-network-technology_53876-98438.jpg?semt=ais_hybrid&w=740&q=80",
+    //   liveUrl: "https://arcotindia.com",
+    //   // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+    //   icon: Code,
+    //   gradient: "from-green-500 to-teal-600",
+    // },
+    
+    //   title: "RPS-48 Fashion",
+    //   description: "E-commerce platform for a fashion brand, featuring product showcases, shopping cart functionality, and secure payment integration.",
+    //   technologies: ["React", "Python", "Flask", "Judge0 API", "Docker"],
+    //   image: "Geometric Fashion Design Display.png",
+    //   // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+    //   liveUrl: "https://rps-48-fashion.vercel.app",
+    //   icon: Code,
+    //   gradient: "from-green-500 to-teal-600"
+    // },
     {
       title: "Paytm-Clone",
       description: "A full-stack clone of the Paytm app, implementing core features like user authentication, wallet management, and transaction history.",
@@ -107,16 +368,16 @@ const Projects = () => {
       icon: Brain,
       gradient: "from-purple-500 to-pink-600",
       },
-      {
-      title: "Rural-Company(Urban clone)",
-      description: "A clone of the Urban app tailored for rural markets, focusing on local services, user-friendly design, and efficient delivery systems.",
-      technologies: ["React", "Python", "Gemini API", "LangChain", "Firebase"],
-      image:"Rural Company Services and Worker Showcase.png",
-      liveUrl: "https://rural-company.vercel.app",
-      // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
-      icon: Brain,
-      gradient: "from-purple-500 to-pink-600",
-      },
+      // {
+      // title: "Rural-Company(Urban clone)",
+      // description: "A clone of the Urban app tailored for rural markets, focusing on local services, user-friendly design, and efficient delivery systems.",
+      // technologies: ["React", "Python", "Gemini API", "LangChain", "Firebase"],
+      // image:"Rural Company Services and Worker Showcase.png",
+      // liveUrl: "https://rural-company.vercel.app",
+      // // githubUrl: "https://github.com/pagidimarri-poojitha-chary/",
+      // icon: Brain,
+      // gradient: "from-purple-500 to-pink-600",
+      // },
       {
       title: "Smart Pole Dashboard",
       description: "Interactive smart pole dashboard delivering real-time data, analytics, and control in a single unified view.",
@@ -147,14 +408,20 @@ const Projects = () => {
       icon: Brain,
       gradient: "from-purple-500 to-pink-600",
       },
-      {
-      title: "Smart Bollard Application",
-      description: "Intuitive smart bollard application combining monitoring, alerts, and remote commands for enhanced security and control. IN PROGRESS",
-      technologies: ["React", "Python", "Gemini API", "LangChain", "Firebase"],
-      image: "ChatGPT Image Sep 3, 2025, 08_02_38 AM.png",
-      icon: Brain,
-      gradient: "from-purple-500 to-pink-600",
-      }
+{
+  title: "Smart Bollard Application",
+  description: (
+    <>
+      Intuitive smart bollard application combining monitoring, alerts, and remote commands for enhanced security and control.{" "}
+      <span className="text-green-500 font-semibold">IN PROGRESS</span>
+    </>
+  ),
+  technologies: ["React", "Python", "Gemini API", "LangChain", "Firebase"],
+  image: "ChatGPT Image Sep 3, 2025, 08_02_38 AM.png",
+  icon: Brain,
+  gradient: "from-purple-500 to-pink-600",
+}
+
   ];
 
   const containerVariants = {
